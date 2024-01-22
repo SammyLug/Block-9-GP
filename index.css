@@ -1,0 +1,18 @@
+div {
+  margin: 10px;
+  padding: 20px;
+  background-color: wheat;
+}
+
+body {
+  background-color: brown;
+}
+
+.subheading {
+  margin-top: 0;
+}
+
+h1 {
+  margin: 20px;
+  color: wheat;
+}
